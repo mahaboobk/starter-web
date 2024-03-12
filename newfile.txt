@@ -1,3 +1,4 @@
+Git Introduction
 Git is a distributed version control system that tracks changes in source code during software development. It allows multiple developers to collaborate on a project by managing a history of changes and facilitating the merging of different versions. With Git, each developer has their own local repository, and changes can be shared and synchronized with a central repository. The system uses branches to isolate different features or developments, and merging is used to combine changes from different branches. Git provides flexibility, speed, and reliability in managing and tracking code changes throughout the development process.
 Working Directory:
 
