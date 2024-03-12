@@ -1,3 +1,3 @@
 Adding new File 2
 Adding new information to new file2 for editing
-Changes I do not want
+Changes I want to stash
